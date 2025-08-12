@@ -1,3 +1,5 @@
+![Tela principal do Viraliza.ai](docs/image/tela_principal.png)
+
 # Viraliza.ai
 
 Sistema para geração de conteúdo viral para redes sociais usando inteligência artificial.
